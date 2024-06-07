@@ -35,7 +35,7 @@ KRISHtg/queenmusicbot is a ✨ _special_ ✨ repository because its README.md (t
 </h2>
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦ᴅᴇᴘʟᴏʏ+ᴏɴ+ʜᴇʀᴏᴋᴜ♦;♨️+ɴᴏ+ʜᴇʀᴏᴋᴜ+ʙᴀɴ+ɪssᴜᴇ+ᴀʟsᴏ+ᴠᴘs+ᴅᴇᴘʟᴏʏ+📍+ᴘʀᴇsᴇɴᴛ;🎭+ᴘᴏᴡᴇʀᴇᴅ+ʙʏ+KRISH+🎭">
 <p align="center">
-  <img src="https://te.legra.ph/file/0f37a7c706b597e4ce5fa.jpg">
+  <img src="https://graph.org/file/85ee6b853f9e042726366.jpg">
 </p>
 
 𝗧𝗘𝗦𝗧 𝗕𝗢𝗧 ➣ [](https://t.me/PROFESSOR_SUKOON_BOT)
