@@ -15,8 +15,9 @@ KRISHtg/queenmusicbot is a ✨ _special_ ✨ repository because its README.md (t
 
 <h2 align="center">
     𖢵 ѕιи𝗫 𖢵
+    
 
-★ 𝗛𝗘𝗥𝗢𝗞𝗨 + 𝗩𝗣𝗦 ★
+   𝗛ᴇʀᴏᴋᴜ+ 𝗩ᴘs  
 
 <p align='center'>
   <img src="https://img.shields.io/github/forks/KRISHtg/queenmusicbot?style=flat-square" alt="Forks">
