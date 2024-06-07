@@ -14,7 +14,7 @@ KRISHtg/queenmusicbot is a ✨ _special_ ✨ repository because its README.md (t
 
 
 <h2 align="center">
-    𖢵 𝐐ᴜᴇᴇɴ ✘ 𝐌ᴜꜱɪᴄ♡゙ 𖢵
+    𖢵 ѕιи𝗫 𖢵
 
 ★ 𝗛𝗘𝗥𝗢𝗞𝗨 + 𝗩𝗣𝗦 ★
 
@@ -29,7 +29,7 @@ KRISHtg/queenmusicbot is a ✨ _special_ ✨ repository because its README.md (t
 </p>
 
 <p align='center'>
-  <a href="https://t.me/queen_suportgroup" alt="MADE-BY-KRISH"> <img src="https://img.shields.io/badge/Made%20with-Go-1f425f.svg?style=flat-square&logo=Go&color=blue" /> </a>
+  <a href="https://t.me/x4rish" alt="MADE-BY-KRISH"> <img src="https://img.shields.io/badge/Made%20with-Go-1f425f.svg?style=flat-square&logo=Go&color=blue" /> </a>
 
 </h2>
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦ᴅᴇᴘʟᴏʏ+ᴏɴ+ʜᴇʀᴏᴋᴜ♦;♨️+ɴᴏ+ʜᴇʀᴏᴋᴜ+ʙᴀɴ+ɪssᴜᴇ+ᴀʟsᴏ+ᴠᴘs+ᴅᴇᴘʟᴏʏ+📍+ᴘʀᴇsᴇɴᴛ;🎭+ᴘᴏᴡᴇʀᴇᴅ+ʙʏ+KRISH+🎭">
