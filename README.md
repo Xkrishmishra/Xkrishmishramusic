@@ -7,7 +7,7 @@ KRISHtg/queenmusicbot is a ✨ _special_ ✨ repository because its README.md (t
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/KRISHtg/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/xkrishmishra/count.svg" />
 </p>
 
 
